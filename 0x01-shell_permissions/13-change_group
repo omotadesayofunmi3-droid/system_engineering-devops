@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Changes the group owner of hello to school
+chgrp school hello
