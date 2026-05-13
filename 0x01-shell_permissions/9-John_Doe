@@ -1,4 +1,3 @@
 #1/usr/bin/bash
-# Sets the mode of hello to -rwxr-x-wx
 chmod 753 hello
  
