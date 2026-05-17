@@ -1,3 +1,2 @@
-#1/usr/bin/bash
-# Adds execute permission to all subdirectories for all users
-find . -type d exec chmod a+x {} \;
+#!/bin/bash
+find . -type d exec chmod a+x {} \

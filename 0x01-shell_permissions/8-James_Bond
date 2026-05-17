@@ -1,4 +1,2 @@
-#1/usr/bin/bash
-# Sets permissions of hello to -------rwx
+#!/bin/bash
 chmod 007 hello
-
