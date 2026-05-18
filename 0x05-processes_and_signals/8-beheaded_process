@@ -1,2 +1,2 @@
-#!/bin/bash/env bash
+#!/bin/env bash
 pkill -9 -f 7-highlander
